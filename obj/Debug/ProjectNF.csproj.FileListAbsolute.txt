@@ -1,0 +1,9 @@
+c:\users\steph\onedrive\documents\visual studio 2015\Projects\ProjectNF\ProjectNF\bin\Debug\ProjectNF.exe.config
+c:\users\steph\onedrive\documents\visual studio 2015\Projects\ProjectNF\ProjectNF\bin\Debug\ProjectNF.exe
+c:\users\steph\onedrive\documents\visual studio 2015\Projects\ProjectNF\ProjectNF\bin\Debug\ProjectNF.pdb
+c:\users\steph\onedrive\documents\visual studio 2015\Projects\ProjectNF\ProjectNF\obj\Debug\ProjectNF.csprojResolveAssemblyReference.cache
+c:\users\steph\onedrive\documents\visual studio 2015\Projects\ProjectNF\ProjectNF\obj\Debug\ProjectNF.Form1.resources
+c:\users\steph\onedrive\documents\visual studio 2015\Projects\ProjectNF\ProjectNF\obj\Debug\ProjectNF.Properties.Resources.resources
+c:\users\steph\onedrive\documents\visual studio 2015\Projects\ProjectNF\ProjectNF\obj\Debug\ProjectNF.csproj.GenerateResource.Cache
+c:\users\steph\onedrive\documents\visual studio 2015\Projects\ProjectNF\ProjectNF\obj\Debug\ProjectNF.exe
+c:\users\steph\onedrive\documents\visual studio 2015\Projects\ProjectNF\ProjectNF\obj\Debug\ProjectNF.pdb
