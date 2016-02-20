@@ -63,9 +63,39 @@ namespace ProjectNF.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _8263999644_64c9739030 {
+            get {
+                object obj = ResourceManager.GetObject("8263999644_64c9739030", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap jarvis_theme_by_zenoxen {
             get {
                 object obj = ResourceManager.GetObject("jarvis_theme_by_zenoxen", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap netflix_logo {
+            get {
+                object obj = ResourceManager.GetObject("netflix-logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap netflix_logo1 {
+            get {
+                object obj = ResourceManager.GetObject("netflix-logo1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
